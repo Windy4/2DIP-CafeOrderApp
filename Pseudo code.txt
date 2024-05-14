@@ -1,0 +1,18 @@
+Import Libraries
+Menu items = x:2, y:5, z:7
+create class xxx:
+    create tkinter window
+    add text boxes and submit button
+    
+    login function()
+        create variables
+        ask for age, name, password
+        if age is less than 12 dont allow to login, if age is more than 19 dont allow
+        if password matches name, login
+        else dont
+        if name doesnt exist in file, add name and password to file
+            login   
+    go to order frame and allow them to place orders.
+    when press make order, append to file with date
+    prompt user with "Thanks for ordering and quit application.
+
